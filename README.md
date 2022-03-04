@@ -131,6 +131,20 @@ Edit out all base URLs using the generated azure URL
 -	add name, region & review create and create again
 -	Go to resource, containers click + container , add anonymous access
 
+## How to enable Autocomplete Pipeline trigger
+- got to pipeline and edit
+- triggers, enable Continuous Deployment of the branch
+
+## Application monitoring/Debugging
+-	Go to your app on azure
+-	check application maps 
+-	Failures
+-	Logs
+-	Tables then run
+
+
+
+
 
 
 
