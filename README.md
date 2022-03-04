@@ -48,7 +48,18 @@ All cover different degrees of management by you(cloud computing as-a-service)
 Fill the details below and click create/review the create :
 
 #### Node Express API
+
 ![image](https://user-images.githubusercontent.com/39994438/156851411-9873414f-4f41-4f1f-b897-135179786f2a.png)
+
+- After DB is created succesfully, 
+- go to resource,
+- Connection string for connection
+- Copy primary connection string
+-	Go to source code
+-	paste string in db.js --> has connection string
+-	run app, upload some data
+-	go to data explorer to check the data
+
 
 
 
