@@ -106,6 +106,16 @@ Fill the details below and click create/review the create :
 -	choose node and save, then save
 -	every commit triggers a new pipeline, creates a release job for CD {new release}
 
+## Connect-Local-React-code-to-Azure-Backend-CosmosDB
+Edit out all base URLs using the generated azure URL
+## Push-React-code-to-Azure-Repos
+- go to repos ,files , front end file
+-	copy the url
+-	go to computer and clone the url
+-	copy the files except node modules to the cloned folders
+-	commit code & push
+
+
 
 
 
