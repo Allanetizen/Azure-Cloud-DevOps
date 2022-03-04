@@ -36,9 +36,23 @@ All cover different degrees of management by you(cloud computing as-a-service)
 
 ### Azure DevOps
 
+
 **Intro**
 
 ![image](https://user-images.githubusercontent.com/39994438/156850800-ba706edc-19ab-4240-88c8-3f7ffac6e5c0.png)
+
+### Steps in deploying a MERN App
+
+- **creating a cosmos** -> DB- NoSQL API
+
+Fill the details below and click create/review the create :
+
+#### Node Express API
+![image](https://user-images.githubusercontent.com/39994438/156851411-9873414f-4f41-4f1f-b897-135179786f2a.png)
+
+
+
+
 
 
 
