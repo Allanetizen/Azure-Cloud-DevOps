@@ -29,6 +29,11 @@ All cover different degrees of management by you(cloud computing as-a-service)
 **Key**
 
 ![image](https://user-images.githubusercontent.com/39994438/156828760-c6317d0a-1341-4ac6-a9c4-ab00d349ef40.png)
+### Azure Cloud
+- services:
+
+![image](https://user-images.githubusercontent.com/39994438/156829270-44956b92-2431-4155-811f-8e69193cdaf4.png)
+
 
 
 
