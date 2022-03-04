@@ -60,6 +60,21 @@ Fill the details below and click create/review the create :
 -	run app, upload some data
 -	go to data explorer to check the data
 
+## Push front/backend code to Azure repos
+-	Go to repos
+-	Create 2 New repos and name them fe & be
+
+## Integrate Backend( CI Pipeline)
+-	Click on the repo
+-	clone repo
+-	copy the URL
+-	git clone link pasted
+-	go to the cloned backend folder
+-	copy all files, can ignore node_modules
+-	paste to your application folder, BE part
+-	git commit and push
+
+
 
 
 
