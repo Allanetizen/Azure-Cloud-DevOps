@@ -89,7 +89,22 @@ Fill the details below and click create/review the create :
 -	search app service, create app service , choose mern 
 -	stack from resource group, node , windows, region .. then create, deployment suceeded
 -	Go to resource, check url for appservice
--	go to pipelines, CI , triggers, enable Continous Integration, brach
+-	go to pipelines, CI , triggers, enable Continous Integration, branch
+
+## Deploy Backend( CD Pipeline)
+-	Go to pipelines, releases, new pipeline
+-	choose an empty one , name it next , change name of pipeline
+-	add artifact
+-	choose build pipeline
+-	click on the creates pipeline thunder icon, choose branch then save
+-	click on one job
+-	search app service deploy, name it, 
+-	enter credentials to authorize, choose subscription, 
+-	choose platform windows/linux
+-	enter folder /directory
+-	generate web.config parameters, click on the 3 dots
+-	choose node and save, then save
+-	every commit triggers a new pipeline, creates a release job for CD {new release}
 
 
 
