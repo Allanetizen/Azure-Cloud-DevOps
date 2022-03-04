@@ -22,3 +22,8 @@ All cover different degrees of management by you(cloud computing as-a-service)
 
 ![image](https://user-images.githubusercontent.com/39994438/156827974-408f662b-3b3f-481b-87c0-d6a7ed2772f5.png)
 
+## Summary of the differences Chart
+
+![image](https://user-images.githubusercontent.com/39994438/156828316-681a3250-e392-4716-869a-5b233fa68b77.png)
+
+
