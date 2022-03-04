@@ -124,6 +124,14 @@ Edit out all base URLs using the generated azure URL
 
 **can add npm run tests**
 
+## Create Storage Account container(file storage)
+-	search storage accounts
+-	create storage accounts
+-	choose mern stack resource group
+-	add name, region & review create and create again
+-	Go to resource, containers click + container , add anonymous access
+
+
 
 
 
