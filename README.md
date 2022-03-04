@@ -115,6 +115,16 @@ Edit out all base URLs using the generated azure URL
 -	copy the files except node modules to the cloned folders
 -	commit code & push
 
+## CI Pipeline for React front-end
+-	go to pipelines, new , use classic editor
+-	choose , project , repo , branch
+-	choose empty job and name
+-	add tasks: npm install , npm run build in command and arguments
+-	add task: publish artifact: drop drop is artifact name and run
+
+**can add npm run tests**
+
+
 
 
 
