@@ -142,6 +142,13 @@ Edit out all base URLs using the generated azure URL
 -	Logs
 -	Tables then run
 
+## How to delete project/everything
+-	go to the project
+-	click resources, 
+-	Select everything
+-	Delete, type yes
+
+
 
 
 
