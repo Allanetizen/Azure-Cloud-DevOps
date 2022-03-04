@@ -19,3 +19,6 @@ All cover different degrees of management by you(cloud computing as-a-service)
 - Infrastructure-as-a-service(IaaS)
 - Platform-as-a-service(PaaS)
 - Software-as-a-service(SaaS)
+
+![image](https://user-images.githubusercontent.com/39994438/156827974-408f662b-3b3f-481b-87c0-d6a7ed2772f5.png)
+
