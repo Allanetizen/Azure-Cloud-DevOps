@@ -74,6 +74,24 @@ Fill the details below and click create/review the create :
 -	paste to your application folder, BE part
 -	git commit and push
 
+## Create CI pipeline
+-	Go to pipeline
+-	create pipeline
+-	chose editoer/classic
+-	choose project repo
+- continue to empty job, name --> project name CI e.g myapp-be-CI pipeline
+-	click on agent job
+-	add task **--npm --npm install at root level**
+-	add task npm test for test, not compulsary, control option continue on error, so no fail
+-	add task Publish Artifact: drop, pasth to publish :Build.SourcesDirectory, choose drop
+-	Save and run
+-	**NB: if error check to ensure pipelines allowed**
+-	search app service, create app service , choose mern 
+-	stack from resource group, node , windows, region .. then create, deployment suceeded
+-	Go to resource, check url for appservice
+-	go to pipelines, CI , triggers, enable Continous Integration, brach
+
+
 
 
 
